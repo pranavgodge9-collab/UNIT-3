@@ -1,2 +1,0 @@
-This is the first line of the file.
-This line was added using append mode.
